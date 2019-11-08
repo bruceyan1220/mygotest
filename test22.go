@@ -1,4 +1,4 @@
-package mygotest22
+package mygotest11
 
 import "fmt"
 
